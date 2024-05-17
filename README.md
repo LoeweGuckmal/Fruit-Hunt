@@ -13,19 +13,18 @@
     <h1>Troubleshooting Fruit-Hunt</h1>
     <p>If you try to start the game and it doesn't work or you receive an error message, please follow the steps below:</p>
     <h2>1. Check the error message</h2>
-<p>Look at the error message displayed in the terminal or console. It might give you clues about what the problem is. An example is provided below.<br></p>
-
-<h2>2. Install missing dependencies</h2>
-<p>Make sure you have all the required Python packages installed. You can install these with <code>pip</code>. Open a terminal or command line and run the following commands:</p>
-
-<div class="pip-command">
-    <code>pip install pygame</code>
-</div>
-<div class="pip-command">
-    <code>pip install colorama</code>
-</div>
-An example is also provided below.<br>
-
-<p>These commands install the necessary libraries <code>pygame</code> and <code>colorama</code>. If you receive other error messages, check if additional libraries are missing and install them accordingly.</p>
-<p>The game should now be able to run by double-clicking on the file. Good luck and have fun with the game!</p>
+    <p>Look at the error message displayed in the terminal or console. It might give you clues about what the problem is. Example:</p>
+    <img src="error.png" alt="Error example">
+    <h2>2. Install missing dependencies</h2>
+    <p>Make sure you have all the required Python packages installed. You can install these with <code>pip</code>. Open a terminal or command line and run the following commands:</p>
+    <div class="pip-command">
+        <code>pip install pygame</code>
+    </div>
+    <div class="pip-command">
+        <code>pip install colorama</code>
+    </div>
+    <p>Example:</p>
+    <img src="pip.png" alt="Pip install example">
+    <p>These commands install the necessary libraries <code>pygame</code> and <code>colorama</code>. If you receive other error messages, check if additional libraries are missing and install them accordingly.</p>
+    <p>The game should now be able to run by double-clicking on the file. Good luck and have fun with the game!</p>
 </div>
