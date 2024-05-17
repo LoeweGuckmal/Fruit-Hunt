@@ -13,13 +13,13 @@
 <p>Look at the error message displayed in the terminal or console. It might give you clues about what the problem is. Example:</p>
 <img src="error.png" alt="Error example">
 <h2>2. Install missing dependencies</h2>
-<p>Make sure you have all the required Python packages installed. You can install these with <code>pip</code>. Open a terminal or command line and run the following commands:</p>
+<p>Make sure you have all the required Python packages installed. You can install these with <code>pip</code>. Open a terminal or command line and run the following commands:
 <div class="pip-command">
     <code>pip install pygame</code>
 </div>
 <div class="pip-command">
     <code>pip install colorama</code>
-</div>
+</div></p>
 <p>Example:</p>
 <img src="pip.png" alt="Pip install example">
 <p>These commands install the necessary libraries <code>pygame</code> and <code>colorama</code>. If you receive other error messages, check if additional libraries are missing and install them accordingly.</p>
