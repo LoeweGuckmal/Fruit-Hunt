@@ -1,9 +1,9 @@
 <div class="container">
     <h1>Fruit-Hunt</h1>
-    <p><span class="highlight">Fruit-Hunt</span> is an exciting game, programmed by Balog and me, LoeweGuckmal. It offers two thrilling versions:</p>
+    <p><span class="highlight">Fruit-Hunt</span> is an exciting 1 vs. 1 game, programmed by Balog and me, LoeweGuckmal. It offers two thrilling versions:</p>
     <ul>
         <li>A version for the <span class="highlight">Raspberry Pi</span> with a 7-segment display and buzzer.</li>
-        <li>A version that can be played on any device.</li>
+        <li>A version that can be played on any device with python installed.</li>
     </ul>
     <p>Dive into the world of Fruit-Hunt and enjoy the fun on your preferred device!</p>
 </div>
