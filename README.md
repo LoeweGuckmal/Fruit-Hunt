@@ -24,3 +24,7 @@
 <img src="pip.png" alt="Pip install example">
 <p>These commands install the necessary libraries <code>pygame</code> and <code>colorama</code>. If you receive other error messages, check if additional libraries are missing and install them accordingly.</p>
 <p>The game should now be able to run by double-clicking on the file. Good luck and have fun with the game!</p>
+<h2>3. Setting up the Raspberry Pi</h2>
+<p>If you want to use the game with a Raspberry Pi, you need to connect the components as shown:</p>
+<img src="connection_diagram.jpg" alt="Raspberry Pi Connection Diagram">
+<p>Follow the diagram to properly connect the 7-segment display and buzzer to your Raspberry Pi. Once connected, power on your Raspberry Pi and run the game as usual. Enjoy playing Fruit-Hunt with your Raspberry Pi setup!</p>
